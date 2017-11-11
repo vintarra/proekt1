@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Лаврик Э.П.",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 197,
@@ -39,10 +39,15 @@
         "#f63b3b"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/012-128x91.png",
+    "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<script data-skip-moving=\"true\">\r\n        (function(w,d,u,b){\r\n                s=d.createElement('script');r=(Date.now()/1000|0);s.async=1;s.src=u+'?'+r;\r\n                h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);\r\n        })(window,document,'https://cdn.bitrix24.ru/b5461113/crm/site_button/loader_1_jlk9qs.js');\r\n</script>",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
