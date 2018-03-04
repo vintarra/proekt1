@@ -710,8 +710,25 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/2703-2000x1535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/91376ec5dc00e8361f1cec30b5c31e85-2000x1368.jpg",
                 "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "<b>Подготовка водителей ТС категории «троллейбус»</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Будущий участник дорожного движения должен осознавать свою ответственность за поведение на дороге, быть внимательным, неукоснительно соблюдать правила, относиться вежливо и корректно к участникам дорожного движения. Поэтому основная цель обучения в ЧОУ ДПО САЭТ «Универсал» – сохранения здоровья и жизни будущих водителей.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">Windows</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2703-2000x1535.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -726,23 +743,6 @@
                 "text": "В ЧОУ ДПО САЭТ «Универсал» имеются учебные кабинеты по Правилам дорожного движения, основам управления транспортным средством и безопасности движения, по оказанию первой медицинской помощи, оснащенные в соответствии со всеми требованиями. В процессе обучения применяются плакаты, диафильмы и видеофильмы. Также ЧОУ ДПО «Универсал» имеет кабинет психофизиологического тестирования кандидатов в водители, компьютерный тренажер по ПДД.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Windows</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Mac</a>",
                 "overlayOpacity": "0.7"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/91376ec5dc00e8361f1cec30b5c31e85-2000x1368.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "<b>Подготовка водителей ТС категории «троллейбус»</b>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Будущий участник дорожного движения должен осознавать свою ответственность за поведение на дороге, быть внимательным, неукоснительно соблюдать правила, относиться вежливо и корректно к участникам дорожного движения. Поэтому основная цель обучения в ЧОУ ДПО САЭТ «Универсал» – сохранения здоровья и жизни будущих водителей.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">Windows</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Mac</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/tram-8-1200x900.jpg",
